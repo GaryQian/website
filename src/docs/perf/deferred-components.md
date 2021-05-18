@@ -472,7 +472,6 @@ Keep the following guidelines in mind:
     need not be defined in the pubspec.
 </li>
 </ul>
-</li>
 
 <li markdown="1">Assets can also be included by adding
     an assets section in the deferred component configuration:
